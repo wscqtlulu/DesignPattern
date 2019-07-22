@@ -1,4 +1,4 @@
-package builder;
+package builder.demo1;
 
 public class SmartHuman implements BuildHuman {
     private Human human;
