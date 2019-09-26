@@ -1,4 +1,4 @@
-package command;
+package command.demo1;
 
 public class MyCommand implements Command {
 

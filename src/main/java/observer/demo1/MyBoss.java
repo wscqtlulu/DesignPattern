@@ -1,4 +1,4 @@
-package observer;
+package observer.demo1;
 
 public class MyBoss extends AbstractSubject {
     @Override

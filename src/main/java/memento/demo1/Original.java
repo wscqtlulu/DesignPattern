@@ -1,4 +1,4 @@
-package memento;
+package memento.demo1;
 
 public class Original {
     private String value1;

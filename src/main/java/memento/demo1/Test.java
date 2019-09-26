@@ -1,4 +1,4 @@
-package memento;
+package memento.demo1;
 
 /**
  * @author taotao

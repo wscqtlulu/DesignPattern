@@ -1,4 +1,4 @@
-package observer;
+package observer.demo1;
 
 public class LaoWang implements Observer {
     @Override

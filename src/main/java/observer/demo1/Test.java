@@ -1,4 +1,4 @@
-package observer;
+package observer.demo1;
 
 /**
  * @author taotao
