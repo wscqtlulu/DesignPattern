@@ -12,7 +12,7 @@ public class Test {
         Sourceable sourceable2 = new Source2();
 //        bridge.setSourceable(sourceable1);
 
-        Bridge bridge = new Mybridge(sourceable1);
+        Bridge bridge = new MyBridge(sourceable1);
         bridge.setSourceable(sourceable2);
         bridge.method();
 

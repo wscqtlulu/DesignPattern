@@ -1,7 +1,7 @@
 package bridge;
 
-public class Mybridge extends Bridge{
-    Mybridge(Sourceable sourceable){
+public class MyBridge extends Bridge{
+    MyBridge(Sourceable sourceable){
         this.sourceable = sourceable;
     }
     @Override

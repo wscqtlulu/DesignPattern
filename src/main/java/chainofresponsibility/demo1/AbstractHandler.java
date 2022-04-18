@@ -1,4 +1,4 @@
-package chainofresponsibility;
+package chainofresponsibility.demo1;
 
 public class AbstractHandler {
     Handler handler;

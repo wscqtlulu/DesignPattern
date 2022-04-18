@@ -1,4 +1,4 @@
-package visitor;
+package visitor.demo1;
 
 public class Visitor {
     private String name;

@@ -19,9 +19,9 @@ public class TaoFindLoveMain {
             obj.findLove();
 
             //获取字节码内容
-//            byte[] data = ProxyGenerator.generateProxyClass("$Proxy0", new Class[]{Person.class});
+//            byte[] datas = ProxyGenerator.generateProxyClass("$Proxy0", new Class[]{Person.class});
 //            FileOutputStream os = new FileOutputStream("$Proxy0.class");
-//            os.write(data);
+//            os.write(datas);
 //            os.close();
 
         } catch (Exception e){

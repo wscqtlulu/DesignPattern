@@ -1,6 +1,6 @@
-package visitor;
+package visitor.demo1;
 
-public class SaveService implements Service {
+public class BaseService implements Service {
     @Override
     public void accept(Visitor visitor) {
         visitor.process(this);

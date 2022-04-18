@@ -1,4 +1,4 @@
-package visitor;
+package visitor.demo1;
 
 /**
  * @author taotao

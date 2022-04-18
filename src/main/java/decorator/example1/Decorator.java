@@ -5,9 +5,9 @@ package decorator.example1;
  */
 public class Decorator implements Sourceable {
 
-    Source source;
+    Sourceable source;
 
-    Decorator(Source source){
+    Decorator(Sourceable source){
         this.source = source;
     }
 

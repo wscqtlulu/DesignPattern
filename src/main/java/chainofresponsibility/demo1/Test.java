@@ -1,4 +1,4 @@
-package chainofresponsibility;
+package chainofresponsibility.demo1;
 
 /**
  * @author taotao
